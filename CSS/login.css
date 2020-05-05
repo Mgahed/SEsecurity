@@ -1,0 +1,9 @@
+label {
+
+  color: white;
+  font-weight: bold;
+  padding: 4px;
+  text-transform: capitalize;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
